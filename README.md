@@ -7,7 +7,7 @@
 ### What I like:
 
 - The idea:
-	- Targeting an important field and using _**AI**_ technologies to make it very useful, simple and automated to _attract_ the largest number of clients, this is what INTELLEGINT people do!
+	- Targeting an important field and using _**AI**_ technologies to make it very useful, simple and automated to _attract_ the largest number of clients, this is what INTELLIGENT people do!
 
 - Automation:
 	- Fully _**automated**_
