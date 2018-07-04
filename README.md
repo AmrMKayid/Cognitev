@@ -1,6 +1,8 @@
 <h1 align=center> Cognitev </h1>
+<h6 align=center> <em>Let's make the interneta better place!</em> </h6>
 
 # [InstaScaler](https://instascaler.com/):
+> I'm a **BIG** fan of Automating everything!
 
 ### What I like:
 
@@ -32,7 +34,7 @@
 ### What I dislike:
 
 - Prices:
-	- I think the prices are somewhat high
+	- I think the prices are somewhat high if you want to focus on small startups too.
 
 - Demo:
 	- providing a demo to enable people to discover the platform before making contact
@@ -40,5 +42,7 @@
 
 ### ideas:
 
-- [ ] Provide a **_Demo/trail_** for users before they buy the product
-- [ ] **Focus** on social media marketing as I have noticed that you are not marketing for the product so well on the social media like e.g. Facebook 
+- [ ] _Demo_: Provide a **_Demo/trail_** for users before they buy the product
+- [ ] _Advertise your Advertising Platform!_: **Focus** on social media marketing as I have noticed that you are not marketing for the product so well on the social media like e.g. Facebook 
+- [ ] _Chatbot_: Using chatbot along with the live chat will be a great move to improve customer service
+- [ ] Besides choosing the countries customers, You may enable the platform users to select which type of customers they are targeting
