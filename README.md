@@ -2,6 +2,8 @@
 
 # [InstaScaler](https://instascaler.com/):
 
+### What I like:
+
 - The idea:
 	- targeting an important field and using AI technologies to make it very useful and automated to target the largest number of clients, this is what intelligent people do!
 
@@ -25,3 +27,14 @@
 - Support:
 	- Live Chat: providing the website with a live chat and caring about the customer support
 	- FAQ with all the questions that might come into mind before using the platform
+
+
+### What I dislike:
+
+- Prices:
+	- I think the prices are somewhat high
+
+- Demo:
+	- providing a demo to enable people to discover the platform before making contact
+
+
