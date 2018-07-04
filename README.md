@@ -7,11 +7,11 @@
 ### What I like:
 
 - The idea:
-	- targeting an important field and using AI technologies to make it very useful, simple and automated to target the largest number of clients, this is what intelligent people do!
+	- Targeting an important field and using _**AI**_ technologies to make it very useful, simple and automated to _attract_ the largest number of clients, this is what INTELLEGINT people do!
 
 - Automation:
-	- Fully _automated_
-	- The fully _self-serve_ platform
+	- Fully _**automated**_
+	- The fully _**self-serve**_ platform
 	- Using automation to target anyone doing business even if he has no technical or marketing skills!
 
 
@@ -20,11 +20,11 @@
 	- I'm sure that the dashboard and the platform will be even simpler as I can indicate from iOS App pics!
 
 - Synchronization:
-	- availability on both web and mobile.
+	- Availability on both web and mobile.
 
 - The Guides:
-	- the provided instruction to use the platform
-	- videos and resources that help people to start using the platform easily
+	- The provided _instruction_ to use the platform
+	- _Videos and Resources_ that help people to start using the platform easily
 
 - Support:
 	- _Live Chat_: providing the website with a live chat and caring about the customer support
